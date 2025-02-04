@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d64aa0-e793-4b89-9390-eca9fdb078a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/class_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/second_task/function_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mUJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mUJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/django/contrib/admin/sites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/django/contrib/admindocs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/django/contrib/admindocs/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_internal/index/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_internal/index/collector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_internal/index/sources.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_internal/index/sources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/rich/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/rich/logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/rich/syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/pip/_vendor/rich/syntax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2sMVoXZC2lqzr9gpm8AQ9czx5MS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,10 +45,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.urls.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/HP/Downloads/1.04. Real-life example.csv",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
