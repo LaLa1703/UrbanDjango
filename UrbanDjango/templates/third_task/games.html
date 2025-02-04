@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Магазин</title>
+</head>
+<body>
+    <h1>Магазин игр</h1>
+    <ul>
+        {% for key, value in items.items %}
+            <li>{{ value }} <button>Купить</button></li>
+        {% endfor %}
+    </ul>
+    <a href="/task3/"><button>На главную</button></a>
+</body>
+</html>
