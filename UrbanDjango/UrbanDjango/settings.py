@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'example2',
     'example3',
     'UrbanDjango',
-    'task3'
+    'task3',
+    'task4',
 ]
 
 MIDDLEWARE = [

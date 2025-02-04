@@ -18,13 +18,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from task2.views import ClassView, function_view
-from task3 import views as task3_views
+#from task3 import views as task3_views
+from task4 import views as task4_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('task2/class_view', ClassView.as_view(), name='class_view'),
     path('task2/function_view', function_view, name='function_view'),
-    path('', task3_views.platform, name='platform'),
-    path('task3/games/', task3_views.games, name='games'),
-    path('task3/cart/', task3_views.cart, name='cart'),
+    path('', task4_views.platform, name='platform'),
+    path('task4/games/', task4_views.games, name='games'),
+    path('task4/cart/', task4_views.cart, name='cart'),
+
 ]
